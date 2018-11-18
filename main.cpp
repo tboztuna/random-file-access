@@ -81,7 +81,6 @@ int main(int argc, const char * argv[]) {
         cout << "Please select the option from the list:" << endl;
         cout << "[1] Print a record." << endl;
         cout << "[2] Update a record." << endl;
-        cout << "[3] Replace a blank record." << endl;
         cout << "[-1] Exit." << endl;
         cin >> option;
 
