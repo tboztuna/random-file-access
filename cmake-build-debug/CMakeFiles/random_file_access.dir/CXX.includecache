@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/skyline/CLionProjects/random-file-access/Employee.h
+string
+-
+
+/Users/skyline/CLionProjects/random-file-access/main.cpp
+iostream
+-
+fstream
+-
+string
+-
+Employee.h
+/Users/skyline/CLionProjects/random-file-access/Employee.h
+
